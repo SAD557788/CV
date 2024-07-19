@@ -146,12 +146,7 @@ a {
 	margin-bottom: 20px;
   	line-height: 1.8;
 }
-#about .about-content .col-2 p {
-	color: var(--gray);
-	margin-bottom: 20px;
-	padding-bottom: 5px;
-	border-bottom: 1px solid #ddd;
-}
+
 
 #contact {
 	background: var(--bg-primary);
