@@ -25,7 +25,23 @@ ul {
 a {
 	text-decoration: none;
 }
-
+ .checkbox {
+ 	width: 300px;
+ 	margin: 100px auto;
+ }
+ .darkmode {
+ background-color: #292929;
+ color: white;
+ }
+ .form-check {
+ 	margin-top: 30px;
+ 	margin-left: 30px;
+ } 
+ #checkbox {
+ width: 50px;
+ height: 20px;
+ cursor: pointer;
+ }
  .container {
  	max-width: 1100px;
  	margin: auto;
